@@ -1,0 +1,16 @@
+{
+  "name": "expand-source",
+  "version": "1.0.0",
+  "repository": "https://github.com/Kladdkaka/expand-source.git",
+  "author": "Kladdkaka <Kladdkaka@users.noreply.github.com>",
+  "license": "MIT",
+  "bin": "./cli.js",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "fs-extra": "^5.0.0",
+    "source-map": "^0.7.2"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
